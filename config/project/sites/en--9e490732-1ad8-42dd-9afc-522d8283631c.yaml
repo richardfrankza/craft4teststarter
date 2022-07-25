@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: en
+hasUrls: true
+language: en-ZA
+name: 'Craft 4 Starter'
+primary: true
+siteGroup: f9b32916-2126-4e45-a11f-04f0e7ca7a39 # Main
+sortOrder: 1

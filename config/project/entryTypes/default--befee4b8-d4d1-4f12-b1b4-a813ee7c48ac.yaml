@@ -1,0 +1,39 @@
+fieldLayouts:
+  e252f5ff-82ec-41e1-8245-5c36410571fe:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 899af7fd-0dcb-415c-adc0-9fec7524a118
+            warning: null
+            width: 100
+        name: Content
+        uid: 2ffe5acc-34d6-463e-b161-118957fa4430
+handle: default
+hasTitleField: true
+name: Default
+section: 301ad900-b843-483c-8c76-5a17b02fee48 # Primary footer links
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

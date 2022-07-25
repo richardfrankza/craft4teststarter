@@ -1,0 +1,92 @@
+dateModified: 1656580409
+elementSources:
+  craft\elements\Entry:
+    -
+      disabled: false
+      key: '*'
+      tableAttributes:
+        - section
+        - postDate
+        - expiryDate
+        - author
+        - link
+      type: native
+    -
+      heading: Navigation
+      type: heading
+    -
+      key: 'section:067b8079-ff86-45ca-b67b-b25b54f4245b' # Navigation links
+      type: native
+    -
+      heading: Forms
+      type: heading
+    -
+      key: 'section:4ed30683-1a66-48b7-b6dd-0ab7ff4e6fce' # Forms
+      type: native
+    -
+      key: 'section:2c1a6abd-a5ca-4a8c-8997-08da2721ba09' # Form submissions
+      type: native
+    -
+      heading: Footer
+      type: heading
+    -
+      disabled: false
+      key: 'section:301ad900-b843-483c-8c76-5a17b02fee48' # Primary footer links
+      tableAttributes:
+        - postDate
+        - expiryDate
+        - author
+        - link
+      type: native
+    -
+      key: 'section:c51a1d73-ff0d-4e87-bc02-619ac167057c' # Secondary footer links
+      type: native
+email:
+  fromEmail: admin@flowsa.com
+  fromName: craft4starter
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1c798ff3-3767-4943-af6a-f95199053004: Default # Default
+    2c1a6abd-a5ca-4a8c-8997-08da2721ba09: 'Form submissions' # Form submissions
+    4ed30683-1a66-48b7-b6dd-0ab7ff4e6fce: Forms # Forms
+    4f9488d6-5cba-4c4b-9126-4f6370d90690: 'Page title' # Page title
+    7b181e68-36eb-4de8-bb15-c9bbe13bdc0a: Default # Default
+    9e149db2-cbf2-4d0c-be84-673c44cf446e: 'Public Schema' # Public Schema
+    9e490732-1ad8-42dd-9afc-522d8283631c: 'Craft 4 Starter' # Craft 4 Starter
+    38ac5001-1c65-41e7-bafb-0a90d162acb5: Default # Default
+    41bf28b7-1ee9-4ef5-9b7a-17dd9926e345: 'Navigation logo' # Navigation logo
+    54a3e6eb-0887-4880-a798-4bf78095795c: Meta # Meta
+    067b8079-ff86-45ca-b67b-b25b54f4245b: 'Navigation links' # Navigation links
+    301ad900-b843-483c-8c76-5a17b02fee48: 'Primary footer links' # Primary footer links
+    a29fa51b-961a-4881-b4b5-c3e066122601: 'Meta description' # Meta description
+    a68d529a-4653-4b28-af35-6065e57e89f8: Header # Header
+    befee4b8-d4d1-4f12-b1b4-a813ee7c48ac: Default # Default
+    c51a1d73-ff0d-4e87-bc02-619ac167057c: 'Secondary footer links' # Secondary footer links
+    c835f74b-1a83-4ed8-9190-4c7cc5e5aae3: Default # Default
+    cedde99d-71a7-4a93-ba03-0d1aebdc2157: Navigation # Navigation
+    d885ca37-56ce-4d56-bb1a-2e36c1406997: Copyright # Copyright
+    e6ea26c6-b576-4b94-8b94-222e4396c11a: 'Meta keywords' # Meta keywords
+    f01d3ccf-b281-468d-8917-44495f1f7f66: Footer # Footer
+    f4e805a9-9a81-4e4c-9e7d-16508454929c: Footer # Footer
+    f9b32916-2126-4e45-a11f-04f0e7ca7a39: Main # Main
+    fefe114d-3863-429f-83c8-4e35865f3323: Common # Common
+plugins:
+  imager-x:
+    edition: lite
+    enabled: true
+    licenseKey: TG6IEXHAXN7T5Q8GCUD9BRJ7
+    schemaVersion: 4.0.0
+system:
+  edition: pro
+  live: true
+  name: 'Craft 4 Starter'
+  retryDuration: null
+  schemaVersion: 4.0.0.9
+  timeZone: Africa/Johannesburg
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

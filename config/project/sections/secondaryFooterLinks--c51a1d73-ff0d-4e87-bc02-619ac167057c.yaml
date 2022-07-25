@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: secondaryFooterLinks
+name: 'Secondary footer links'
+propagationMethod: all
+siteSettings:
+  9e490732-1ad8-42dd-9afc-522d8283631c: # Craft 4 Starter
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: null
+  uid: 1a07243c-8a18-4998-9d80-618b3b22a90c
+type: structure

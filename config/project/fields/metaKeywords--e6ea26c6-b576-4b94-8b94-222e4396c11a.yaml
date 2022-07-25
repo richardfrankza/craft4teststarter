@@ -1,0 +1,19 @@
+columnSuffix: covufsov
+contentColumnType: text
+fieldGroup: 54a3e6eb-0887-4880-a798-4bf78095795c # Meta
+handle: metaKeywords
+instructions: null
+name: 'Meta keywords'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: 'tag, tag'
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

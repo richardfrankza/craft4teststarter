@@ -1,0 +1,39 @@
+fieldLayouts:
+  62f5c0ae-0abe-4379-8d26-6841530a89f9:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 1e55667a-b4d2-4bce-b793-be5ddcb802ac
+            warning: null
+            width: 100
+        name: Content
+        uid: 17d23863-db30-48e7-aa5f-422d98e53bfa
+handle: default
+hasTitleField: true
+name: Default
+section: 2c1a6abd-a5ca-4a8c-8997-08da2721ba09 # Form submissions
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

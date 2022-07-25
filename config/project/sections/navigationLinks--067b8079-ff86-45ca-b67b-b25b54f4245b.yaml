@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: navigationLinks
+name: 'Navigation links'
+propagationMethod: all
+siteSettings:
+  9e490732-1ad8-42dd-9afc-522d8283631c: # Craft 4 Starter
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: 1
+  uid: 72614f92-0ade-46f1-8aae-eafbde9eb444
+type: structure

@@ -1,0 +1,20 @@
+fieldLayouts:
+  dff92c0e-282b-41c8-bbee-65d9eb00f727:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 41bf28b7-1ee9-4ef5-9b7a-17dd9926e345 # Navigation logo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 398fd1b9-1da0-4b02-a491-04f4df5894c9
+            warning: null
+            width: 100
+        name: Navigation
+        uid: c0230390-018b-4e77-99f1-b4174c03a852
+handle: navigation
+name: Navigation
+sortOrder: 3

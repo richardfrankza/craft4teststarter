@@ -1,0 +1,19 @@
+columnSuffix: ipyidism
+contentColumnType: string(800)
+fieldGroup: 54a3e6eb-0887-4880-a798-4bf78095795c # Meta
+handle: metaDescription
+instructions: null
+name: 'Meta description'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: 200
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

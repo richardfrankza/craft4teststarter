@@ -1,0 +1,19 @@
+columnSuffix: ozgqnamt
+contentColumnType: text
+fieldGroup: f01d3ccf-b281-468d-8917-44495f1f7f66 # Footer
+handle: copyright
+instructions: null
+name: Copyright
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

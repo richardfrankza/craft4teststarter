@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: primaryFooterLinks
+name: 'Primary footer links'
+propagationMethod: all
+siteSettings:
+  9e490732-1ad8-42dd-9afc-522d8283631c: # Craft 4 Starter
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+structure:
+  maxLevels: 1
+  uid: 359fb3d5-a0ef-481d-ad5c-4e77460d667e
+type: structure
