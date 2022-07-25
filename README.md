@@ -34,4 +34,4 @@ Gitpod should automatically run scripts to build out your development environmen
 ## Principles & concepts
 
 ### Atomic design using twig templates
-This repository users the following design pattern: https://percipio.london/blog/integrating-atomic-design-in-your-craft-cms-workflow
+This repository uses the following design pattern: https://percipio.london/blog/integrating-atomic-design-in-your-craft-cms-workflow
